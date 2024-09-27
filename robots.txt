@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eckertio.github.io/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/app/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/assets/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/css/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/data/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/includes/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/item/sitemap.eckertio.gz
+Sitemap: https://eckertio.github.io/src/sitemap.eckertio.gz
